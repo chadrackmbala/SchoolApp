@@ -1,0 +1,51 @@
+
+
+.dashboard{
+    margin-top: 1px;
+    margin-left: 1px;
+    position: sticky;
+        height: 400px;
+        overflow-y: auto;
+  
+}
+
+
+table {
+    border-collapse: collapse;
+    width: 1200px;
+   
+}
+
+
+thead{
+position: sticky;
+
+}
+
+th,
+td {
+    padding: 8px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+}
+
+th {
+    background-color: #f2f2f2;
+    font-weight: bold;
+}
+
+tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+
+input[type="checkbox"] {
+    margin-right: 4px;
+}
+
+#resultat {
+    margin-top: 20px;
+    padding: 10px;
+    background-color: #d4edda;
+    color: #155724;
+    border-radius: 4px;
+}

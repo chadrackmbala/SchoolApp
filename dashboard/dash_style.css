@@ -1,0 +1,26 @@
+/* Styles CSS */
+
+.header {
+    background-color: rgb(71, 100, 214);
+  color: #fff;
+  padding: 5px;
+  text-align: center;
+  font-size: 20px;
+  height: auto;
+}
+.header p {
+text-align: left;
+}
+
+.content {
+  display: flex;
+}
+
+.sidebar {
+  background-color: #eee;
+  padding: 20px;
+  width: 250px;
+  height: 100%;
+}
+
+
